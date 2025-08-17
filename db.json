@@ -5,21 +5,24 @@
 			"img": "https://quiz.knd.mos.ru/api/risk-calculator/files/68af1806-5845-4ae3-9ace-2ad2651a911c",
 			"title": "Архивное дело",
 			"description": "Для оценки соответствия обязательным требованиям в области архивного дела",
-			"link": "/questionnaires/cfd7def2-5dc3-4e42-a347-1f7068c14fbc/c916f85f-152c-4874-a5fd-5f9275406d6e"
+			"link": "/questionnaires/cfd7def2-5dc3-4e42-a347-1f7068c14fbc/c916f85f-152c-4874-a5fd-5f9275406d6e",
+			"icon": "fi-sr-archive"
 		},
 		{
 			"id": "6ac79f58-637c-40dd-a02d-13d0ca90f6c4",
 			"img": "https://quiz.knd.mos.ru/api/risk-calculator/files/6ac79f58-637c-40dd-a02d-13d0ca90f6c4",
 			"title": "Трудоустройство  инвалидов и молодежи",
 			"description": "Для оценки рисков нарушения законодательства в области квотирования рабочих мест для инвалидов и молодежи",
-			"link": "questionnaires/cb711ce5-c245-442e-9795-6fa9307dd128/34635a83-ef77-4c72-9cbd-470f367484a4"
+			"link": "questionnaires/cb711ce5-c245-442e-9795-6fa9307dd128/34635a83-ef77-4c72-9cbd-470f367484a4",
+			"icon": "fi-sr-glasses"
 		},
 		{
 			"id": "1319b55a-d74a-4b6f-888f-520a29bc3604",
 			"img": "https://quiz.knd.mos.ru/api/risk-calculator/files/1319b55a-d74a-4b6f-888f-520a29bc3604",
 			"title": "Продажа алкоголя в общепите",
 			"description": "Для оценки соответствия обязательным требованиям в области продажи алкоголя при оказании услуг общественного питания",
-			"link": "/questionnaires/c2e0623d-fca7-4ce4-99a4-46dc19d4c0ef/097c9453-6b85-4997-85ad-eb6b2b11ea50"
+			"link": "/questionnaires/c2e0623d-fca7-4ce4-99a4-46dc19d4c0ef/097c9453-6b85-4997-85ad-eb6b2b11ea50",
+			"icon": "fi-sr-cocktail"
 		}
 	],
 	"questionnaires": [
